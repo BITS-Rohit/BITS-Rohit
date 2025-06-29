@@ -15,6 +15,18 @@
 
 ---
 
+## 👨‍💻 Join My Dev Community!
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/JjYwh13EmaA8dUd2DUKink">
+    <img src="https://img.shields.io/badge/Join%20on-WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Group" />
+  </a>
+</p>
+
+> **Connect with fellow devs, discuss automation, share projects, and grow together!**
+
+---
+
 ## 🚀 About Me
 
 - 🎯 **Passionate Java Backend Developer**: Building robust, scalable, and secure server-side applications.
