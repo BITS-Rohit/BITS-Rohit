@@ -9,8 +9,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/BITS-Rohit"><img src="https://img.shields.io/github/followers/BITS-Rohit?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href=https://www.linkedin.com/in/rohit-gupta-169931272/><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="mailto:rohitguptaradheradhe2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+  <a href="https://chat.whatsapp.com/JjYwh13EmaA8dUd2DUKink"><img src="https://img.shields.io/badge/Email-Contact-red?logo=whatsapp" /></a>
 </p>
 
 ---
