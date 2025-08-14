@@ -43,10 +43,10 @@
   <sub>🚧 *Currently in active development. Contributions & feedback welcome!* 🚧</sub>
 
 - 📝 **Google Form AI Assistant Filler**  
-  An intelligent tool that auto-fills Google Forms using AI, saving time and boosting accuracy.
+  An intelligent tool that auto-fills Google Forms using AI, saving time and boosting accuracy. [see repo](https://github.com/BITS-Rohit/AI-Assistant-Google-Form-Filler)
 
 - 🧑‍💻 **Tweakio-WhatsApp-Agent**  
-  Advanced WhatsApp automation and AI-powered assistant. [See Repo](https://github.com/BITS-Rohit/Tweakio-WhatsApp-Agent)
+  Advanced WhatsApp automation and AI-powered assistant. [See Repo](https://github.com/BITS-Rohit/Tweakio_PY)
 
 - 🔥 **Coming Soon / In Progress:**  
   - **LinkedIn Scraper:** Extract professional insights and data from LinkedIn.
