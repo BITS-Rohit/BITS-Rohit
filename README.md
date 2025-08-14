@@ -60,16 +60,20 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="60" height="60"/>
 </p>
 
 - **Java (Core, AWT, Threading)**
-- **Playwright Automation (Java)**
+- **Python (Core, Automation, Scripting)**
+- **Playwright Automation (Java & Python)**
+- **LangChain (Python)**
 - **Git & GitHub**
 - **Data Scraping**
 - **REST APIs**
+
 
 ---
 
@@ -85,7 +89,10 @@
   Integrate AI APIs (Gemini, Groq, OpenAI) into automation and chatbots.
 
 - 📊 **Open Source Projects:**  
-  Building and maintaining tools like [Tweakio-WhatsApp-Agent](https://github.com/BITS-Rohit/Tweakio-WhatsApp-Agent), Info Library, and more.
+  Building and maintaining tools like
+  ==  old Model->[Tweakio-WhatsApp-Agent](https://github.com/BITS-Rohit/Tweakio-WhatsApp-Agent)
+  ==  New Model->[Tweakio_Py](https://github.com/BITS-Rohit/Tweakio_PY)
+  , Info Library, and more.
 
 - ⚡️ **Currently:**  
   Maintaining and expanding my open source libraries, building new automation projects, and always learning!
@@ -95,15 +102,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BITS-Rohit&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITS-Rohit&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITS-Rohit&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITS-Rohit&theme=tokyo-night" height="300"/>
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-gupta-169931272/)
 - 📧 [Email](mailto:rohitguptaradheradhe2004@gmail.com)
 <!-- - 🌐 [Portfolio]( ) -->
 
