@@ -99,27 +99,77 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Daily Activity
 
+<!-- Workflow badge: add this after you create the workflow file (see below) -->
+<!--[![Log Activity Workflow](https://github.com/BITS-Rohit/<YOUR-REPO>/actions/workflows/log-activity.yml/badge.svg)](https://github.com/BITS-Rohit/<YOUR-REPO>/actions/workflows/log-activity.yml)
+
+<!-- Quick badges -->
+<!--[![Last commit](https://img.shields.io/github/last-commit/BITS-Rohit/<YOUR-REPO>?style=social&label=last%20commit)](https://github.com/BITS-Rohit/<YOUR-REPO>/commits)
+[![Repo size](https://img.shields.io/github/repo-size/BITS-Rohit/<YOUR-REPO>)](https://github.com/BITS-Rohit/<YOUR-REPO>)
+[![Top Language](https://img.shields.io/github/languages/top/BITS-Rohit/<YOUR-REPO>)](https://github.com/BITS-Rohit/<YOUR-REPO>/languages)
+[![Open Issues](https://img.shields.io/github/issues/BITS-Rohit/<YOUR-REPO>)](https://github.com/BITS-Rohit/<YOUR-REPO>/issues)
+-->
+---
+
+### 🔥 Daily Activity (Did I do something today?)
+This section shows days you committed activity or manually logged work. Use the **Actions → Log Daily Activity** workflow (or call it from your local scripts) to mark a day "done".
+
+<!-- Contribution heatmap -->
+<p align="center" style="margin-top:18px;">
+  <figure style="display:inline-block; background:#0b1220; border-radius:12px; padding:14px; box-shadow: 0 8px 30px rgba(2,6,23,0.6);">
+    <img
+      alt="GitHub contributions"
+      src="https://ghchart.rshah.org/BITS-Rohit"
+      style="display:block; max-width:640px; width:100%; height:auto; border-radius:8px;"
+    />
+    <figcaption style="color:#cbd5e1; font-size:13px; margin-top:8px; text-align:center;">
+      Daily GitHub activity — contributions & streaks (hover for details on GitHub)
+    </figcaption>
+  </figure>
+</p>
+
+
+<!-- Optional: Activity graph (svg, themeable) -->
+<p align="center">
+  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BITS-Rohit&area=true&theme=github)
+</p>
+
+---
+
+### 📊 Static GitHub Cards
 <p align="center">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BITS-Rohit&show_icons=true&theme=tokyonight" height="170"/>
-  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITS-Rohit&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITS-Rohit&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
+  <!-- Activity Graph (alt) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITS-Rohit&theme=tokyo-night" height="300"/>
 </p>
 
 ---
+
+### 📌 Quick Links & Pinned Projects
+<p align="center">
+  <!-- pinned repo cards (replace RepoName with actual repo) -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BITS-Rohit&repo=AI-Assistant-Google-Form-Filler&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BITS-Rohit&repo=Tweakio_PY&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BITS-Rohit&repo=IntraInfo&theme=tokyonight" height="140" />
+</p>
+
+---
+
+### 📝 Recent activity log (human-readable)
+> Activity lines are appended to `activity/ACTIVITY.md` by the workflow. Example lines:
+
 
 ## 📫 Let's Connect!
 
