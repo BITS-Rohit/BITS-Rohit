@@ -99,7 +99,7 @@
 
 ---
 
-## 📈 GitHub Stats & Daily Activity
+<!--## 📈 GitHub Stats & Daily Activity
 
 <!-- Workflow badge: add this after you create the workflow file (see below) -->
 <!--[![Log Activity Workflow](https://github.com/BITS-Rohit/<YOUR-REPO>/actions/workflows/log-activity.yml/badge.svg)](https://github.com/BITS-Rohit/<YOUR-REPO>/actions/workflows/log-activity.yml)
@@ -112,11 +112,11 @@
 -->
 ---
 
-### 🔥 Daily Activity (Did I do something today?)
+<!--### 🔥 Daily Activity (Did I do something today?)
 This section shows days you committed activity or manually logged work. Use the **Actions → Log Daily Activity** workflow (or call it from your local scripts) to mark a day "done".
 
 <!-- Contribution heatmap -->
-<p align="center" style="margin-top:18px;">
+<!--<p align="center" style="margin-top:18px;">
   <figure style="display:inline-block; background:#0b1220; border-radius:12px; padding:14px; box-shadow: 0 8px 30px rgba(2,6,23,0.6);">
     <img
       alt="GitHub contributions"
@@ -131,11 +131,11 @@ This section shows days you committed activity or manually logged work. Use the 
 
 
 <!-- Optional: Activity graph (svg, themeable) -->
-<p align="center">
+<!--<p align="center">
   ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BITS-Rohit&area=true&theme=github)
-</p>
+</p> 
 
----
+----->
 
 ### 📊 Static GitHub Cards
 <p align="center">
