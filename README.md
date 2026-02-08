@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Join My Dev Community!
+<!-- ## 👨‍💻 Join My Dev Community!
 
 <p align="center">
   <a href="https://chat.whatsapp.com/JjYwh13EmaA8dUd2DUKink">
@@ -26,7 +26,7 @@
 
 > **Connect with fellow devs, discuss automation, share projects, and grow together!**
 
----
+--- -->
 
 ## 🚀 About Me
 
