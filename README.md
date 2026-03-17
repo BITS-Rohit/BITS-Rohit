@@ -167,8 +167,8 @@ This section shows days you committed activity or manually logged work. Use the 
 
 ---
 
-### 📝 Recent activity log (human-readable)
-> Activity lines are appended to `activity/ACTIVITY.md` by the workflow. Example lines:
+<!--### 📝 Recent activity log (human-readable)
+<!--> Activity lines are appended to `activity/ACTIVITY.md` by the workflow. Example lines:
 
 
 ## 📫 Let's Connect!
@@ -177,11 +177,11 @@ This section shows days you committed activity or manually logged work. Use the 
 - 📧 [Email](mailto:rohitguptaradheradhe2004@gmail.com)
 <!-- - 🌐 [Portfolio]( ) -->
 
----
+<!-----
 
 ## 🦾 Motto
 
-> **"Automate the Boring, Engineer the Future."**
+<!--> **"Automate the Boring, Engineer the Future."**
 
 ---
 
