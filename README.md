@@ -1,4 +1,6 @@
-<img src="assets/profile_banner.png" width="100%">
+<p align="center">
+  <img src="https://i.postimg.cc/B6PNQb5h/profile_banner_v1_1774262358067.jpg" width="90%", height="300px">
+</p>
 <p align="center">
   <a href="https://github.com/BITS-Rohit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
@@ -26,7 +28,7 @@ See [my GitHub](https://github.com/BITS-Rohit) for more information!
       <h3 align="center">OmniKernal</h3>
       <br />
       <a target="_blank" href="https://github.com/BITS-Rohit/OmniKernal">
-        <img src="Xchedule-I/assets/omnikernal_banner_.png" width="100%" alt="OmniKernal"/></a>
+        <img src="https://i.postimg.cc/yd3nYxhn/omnikernal_banner.jpg" width="100%" alt="OmniKernal"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/BITS-Rohit/OmniKernal" target="_blank">
@@ -39,7 +41,7 @@ See [my GitHub](https://github.com/BITS-Rohit) for more information!
       <h3 align="center">CamouChat</h3>
       <br />
       <a target="_blank" href="https://github.com/BITS-Rohit/CamouChat">
-        <img src="Xchedule-I/assets/camouchat_banner_v1_1774260821369.png" width="100%" alt="CamouChat"/></a>
+        <img src="https://i.postimg.cc/RFJGVh1R/camouchat_banner_v1_1774260821369.jpg" width="100%" alt="CamouChat"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/BITS-Rohit/CamouChat" target="_blank">
@@ -68,7 +70,7 @@ See [my GitHub](https://github.com/BITS-Rohit) for more information!
       <h3 align="center">Xchedule-I</h3>
       <br />
       <a target="_blank" href="https://github.com/BITS-Rohit/Xchedule-I">
-        <img src="Xchedule-I/assets/XchedulePic.png" width="100%" alt="Xchedule-I"/></a>
+        <img src="https://i.postimg.cc/G2TzhtP7/Xchedule_Pic.jpg" width="100%" alt="Xchedule-I"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/BITS-Rohit/Xchedule-I" target="_blank">
@@ -93,6 +95,17 @@ See [my GitHub](https://github.com/BITS-Rohit) for more information!
 </table>
 
 </details>
+
+<h1 align="center">GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BITS-Rohit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITS-Rohit&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITS-Rohit&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" height="170"/>
+</p>
 
 <h1 align="center">Technologies</h1>
 
